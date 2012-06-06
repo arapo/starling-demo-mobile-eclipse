@@ -8,7 +8,7 @@
 	<copyright>Starling</copyright>
     <initialWindow>
 		<renderMode>direct</renderMode>
-		<depthAndStencil>true</depthAndStencil>
+		<depthAndStencil>false</depthAndStencil>
 		<content>deploy/StarlingDemoMobileEclipse.swf</content>
 		<fullScreen>true</fullScreen>
 		<aspectRatio>landscape</aspectRatio>

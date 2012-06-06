@@ -46,6 +46,7 @@
 				<arg line="-source-path '${resource.dir}'" />
 				<arg line="-file-specs '${source.dir}/${source.file}'" />
 				<arg line="-target-player ${swf.fullplayerversion}" />
+				<arg line="-swf-version ${swf.version}" />
 				<arg line="-title '${swf.title}'" />
 				<arg line="-description '${swf.description}'" />
 				<arg line="-publisher '${swf.publisher}'" />

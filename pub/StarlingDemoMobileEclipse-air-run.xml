@@ -6,7 +6,7 @@
 	<name>StarlingDemoMobileEclipse</name>
     <initialWindow>
 		<renderMode>direct</renderMode>
-		<depthAndStencil>true</depthAndStencil>
+		<depthAndStencil>false</depthAndStencil>
         <content>StarlingDemoMobileEclipse.swf</content>
         <visible>true</visible>
 		<resizable>false</resizable>
